@@ -1,0 +1,19 @@
+{
+    "name": "Icreditsimulator",
+    "alias": "icreditsimulator",
+    "description": "",
+    "keywords": [],
+    "version": "1.0.0",
+	"active": 1,
+    "order": 1,
+    "providers": [
+        "Modules\\Icreditsimulator\\Providers\\IcreditsimulatorServiceProvider",
+        "Modules\\Icreditsimulator\\Providers\\RouteServiceProvider"
+    ],
+    "aliases": {},
+    "files": [
+      "helpers.php"
+
+    ],
+    "requires": []
+}
